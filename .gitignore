@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/Speed_Conv.vcxproj.filters
+/Speed_Conv.vcxproj
+/Speed_Conv.sln
